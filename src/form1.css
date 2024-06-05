@@ -1,0 +1,254 @@
+html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#full-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px; /* Ajout de padding pour s'assurer que tout est visible */
+    box-sizing: border-box;
+    width: 100%;
+    max-height: 100%;
+    overflow: auto; /* Ajout du débordement pour permettre le défilement */
+}
+
+form-container {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 600px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.form-group .section-title {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+/* Background colors for each section */
+.form-group .section-title.name {
+    background-color: #ffcccc;
+}
+
+.form-group .section-title.email {
+    background-color: #ccffcc;
+}
+
+.form-group .section-title.age {
+    background-color: #ccccff;
+}
+
+.form-group .section-title.gender {
+    background-color: #ffffcc;
+}
+
+.form-group .section-title.address {
+    background-color: #ffccff;
+}
+
+.form-group .section-title.cv {
+    background-color: #ccffff;
+}
+
+.form-group .section-title.description {
+    background-color: #ffebcc;
+}
+
+.form-group .section-title.diploma {
+    background-color: #e6ccff;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="email"],
+select {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+input[type="radio"] {
+    margin-right: 5px;
+}
+
+.form-inline {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+}
+
+button[type="submit"],
+button[type="reset"] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+button[type="reset"] {
+    background-color: #f44336;
+    margin-left: 10px;
+}/* fichier formulaire1.css */
+
+html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+}
+
+
+
+#full-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px; /* Ajout de padding pour s'assurer que tout est visible */
+    box-sizing: border-box;
+    width: 100%;
+    max-height: 100%;
+    overflow: auto; /* Ajout du débordement pour permettre le défilement */
+}
+
+#form-container {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 600px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.form-group .section-title {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+/* Background colors for each section */
+.form-group .section-title.name {
+    background-color: #ffcccc;
+}
+
+.form-group .section-title.email {
+    background-color: #ccffcc;
+}
+
+.form-group .section-title.age {
+    background-color: #ccccff;
+}
+
+.form-group .section-title.gender {
+    background-color: #ffffcc;
+}
+
+.form-group .section-title.address {
+    background-color: #ffccff;
+}
+
+.form-group .section-title.cv {
+    background-color: #ccffff;
+}
+
+.form-group .section-title.description {
+    background-color: #ffebcc;
+}
+
+.form-group .section-title.diploma {
+    background-color: #e6ccff;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="email"],
+select {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+input[type="radio"] {
+    margin-right: 5px;
+}
+
+.form-inline {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+}
+
+button[type="submit"],
+button[type="reset"] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+button[type="reset"] {
+    background-color: #f44336;
+    margin-left: 10px;
+}
+
+button[type="submit"]:hover,
+button[type="reset"]:hover {
+    opacity: 0.8;
+}
+
+
+button[type="submit"]:hover,
+button[type="reset"]:hover {
+    opacity: 0.8;
+}

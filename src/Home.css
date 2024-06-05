@@ -1,0 +1,57 @@
+/* Styles pour la page d'accueil */
+.home-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+}
+
+.home-container h1 {
+    font-size: 3em;
+    color: #333;
+    margin-bottom: 0.5em;
+}
+
+.home-container p {
+    font-size: 1.2em;
+    color: #666;
+    margin-bottom: 1.5em;
+    max-width: 600px;
+}
+
+.button-container {
+    display: flex;
+    gap: 1em;
+}
+
+.primary-button,
+.secondary-button {
+    padding: 0.75em 1.5em;
+    border: none;
+    border-radius: 25px;
+    font-size: 1em;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.primary-button {
+    background-color: #007bff;
+    color: white;
+}
+
+.primary-button:hover {
+    background-color: #0056b3;
+}
+
+.secondary-button {
+    background-color: #6c757d;
+    color: white;
+}
+
+.secondary-button:hover {
+    background-color: #5a6268;
+}
