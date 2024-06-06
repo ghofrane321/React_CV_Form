@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/React_CV_Form/static/css/main.087f1df1.css",
-    "main.js": "/React_CV_Form/static/js/main.1276e364.js",
-    "static/js/453.59b44dda.chunk.js": "/React_CV_Form/static/js/453.59b44dda.chunk.js",
+    "main.js": "/React_CV_Form/static/js/main.538357b9.js",
+    "static/js/453.48a0bd84.chunk.js": "/React_CV_Form/static/js/453.48a0bd84.chunk.js",
     "index.html": "/React_CV_Form/index.html",
     "main.087f1df1.css.map": "/React_CV_Form/static/css/main.087f1df1.css.map",
-    "main.1276e364.js.map": "/React_CV_Form/static/js/main.1276e364.js.map",
-    "453.59b44dda.chunk.js.map": "/React_CV_Form/static/js/453.59b44dda.chunk.js.map"
+    "main.538357b9.js.map": "/React_CV_Form/static/js/main.538357b9.js.map",
+    "453.48a0bd84.chunk.js.map": "/React_CV_Form/static/js/453.48a0bd84.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.087f1df1.css",
-    "static/js/main.1276e364.js"
+    "static/js/main.538357b9.js"
   ]
 }
