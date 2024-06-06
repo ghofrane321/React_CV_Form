@@ -11,8 +11,15 @@
             "url": "http://localhost:3000",
             "webRoot": "${workspaceFolder}"
         },
-
-      
+        {
+            "name": "Launch Firefox",
+            "request": "launch",
+            "type": "firefox",
+            "url": "http://localhost:3000",
+            "webRoot": "${workspaceFolder}"
+        }
+        
+       
        
 
        
