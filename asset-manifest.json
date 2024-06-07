@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.087f1df1.css",
-    "main.js": "/static/js/main.43c4fb10.js",
-    "static/js/453.59b44dda.chunk.js": "/static/js/453.59b44dda.chunk.js",
-    "index.html": "/index.html",
-    "main.087f1df1.css.map": "/static/css/main.087f1df1.css.map",
-    "main.43c4fb10.js.map": "/static/js/main.43c4fb10.js.map",
-    "453.59b44dda.chunk.js.map": "/static/js/453.59b44dda.chunk.js.map"
+    "main.css": "/ReactCVForm/static/css/main.087f1df1.css",
+    "main.js": "/ReactCVForm/static/js/main.c9a4064b.js",
+    "static/js/453.59b44dda.chunk.js": "/ReactCVForm/static/js/453.59b44dda.chunk.js",
+    "index.html": "/ReactCVForm/index.html",
+    "main.087f1df1.css.map": "/ReactCVForm/static/css/main.087f1df1.css.map",
+    "main.c9a4064b.js.map": "/ReactCVForm/static/js/main.c9a4064b.js.map",
+    "453.59b44dda.chunk.js.map": "/ReactCVForm/static/js/453.59b44dda.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.087f1df1.css",
-    "static/js/main.43c4fb10.js"
+    "static/js/main.c9a4064b.js"
   ]
 }
